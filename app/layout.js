@@ -13,14 +13,28 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata = {
   title: "Haroon Sagheer | Frontend Developer",
-  description: "Haroon Sagheer — Frontend Developer from Pakistan specializing in React, Next.js, Tailwind CSS and modern web development.",
-  keywords: ["Haroon Sagheer", "Frontend Developer", "React Developer", "Next.js Developer", "Web Developer Pakistan"],
+  description:
+    "Haroon Sagheer — Frontend Developer from Pakistan specializing in React, Next.js, Tailwind CSS and modern web development.",
+  keywords: [
+    "Haroon Sagheer",
+    "Frontend Developer",
+    "React Developer",
+    "Next.js Developer",
+    "Web Developer Pakistan",
+    "Tailwind CSS",
+    "JavaScript Developer",
+    "Portfolio",
+  ],
   authors: [{ name: "Haroon Sagheer" }],
   creator: "Haroon Sagheer",
   metadataBase: new URL("https://haroon-sagheer.vercel.app"),
+  verification: {
+    google: "1r2fxiO3VbbmvsD7DCY1_u9iVaMwTlIDkwfFOp249Do",
+  },
   openGraph: {
     title: "Haroon Sagheer | Frontend Developer",
-    description: "Frontend Developer from Pakistan specializing in React and Next.js.",
+    description:
+      "Frontend Developer from Pakistan specializing in React and Next.js.",
     url: "https://haroon-sagheer.vercel.app",
     siteName: "Haroon Sagheer Portfolio",
     locale: "en_US",
@@ -29,7 +43,8 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Haroon Sagheer | Frontend Developer",
-    description: "Frontend Developer from Pakistan specializing in React and Next.js.",
+    description:
+      "Frontend Developer from Pakistan specializing in React and Next.js.",
   },
   robots: {
     index: true,
