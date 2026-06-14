@@ -52,7 +52,7 @@ const About = () => {
                   1+ Year Experience
                 </h3>
                 <p className="text-gray-400 mt-2">
-                  Java Development & Projects
+                  Javascript Development & Projects
                 </p>
               </div>
 

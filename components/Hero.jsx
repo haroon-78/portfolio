@@ -13,6 +13,7 @@ import {
   FaHtml5,
   FaCss3Alt,
   FaBootstrap,
+  FaNode,
 } from "react-icons/fa";
 
 import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
@@ -146,7 +147,7 @@ const Hero = () => {
                   <OrbitIcon icon={<FaBootstrap />} color="text-purple-500" position="bottom-0 left-1/2 -translate-x-1/2" />
                   <OrbitIcon icon={<FaHtml5 />} color="text-orange-500" position="bottom-12 left-10" />
                   <OrbitIcon icon={<FaCss3Alt />} color="text-blue-500" position="left-0 top-1/2 -translate-y-1/2" />
-
+                  <OrbitIcon icon={<FaNode />} color="text-green-500" position="top-12 left-10" />
                 </div>
 
                 {/* Glow */}
